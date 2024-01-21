@@ -8,6 +8,9 @@ http://www.codeproject.com/KB/winsdk/LibMinHook.aspx
 
 ### Version history
 
+- **v1.3.4 - 21 Jan 2024**
+  * Added v143 toolset lib files.
+
 - **v1.3.3 - 8 Jan 2017**
   * Added a helper function ```MH_CreateHookApiEx```. (Thanks to asm256)
   * Support Visual Studio 2017 RC.
